@@ -10,7 +10,9 @@ Use the package manager "npm" to install the project dependencies.
 npm i
 ```
 
-##
+## MONGO DB
+
+To run this project you may use Mongo Compass or Mongo Atlas. In both cases you will need to change the DB_CONNECTION_STRING variable on the ".env" file to aim to the correct database.
 
 ## Usage
 
